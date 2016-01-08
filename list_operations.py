@@ -34,7 +34,7 @@ def head(input_list):
 
     """
 
-    return None
+    return input_list[0]
 
 
 def tail(input_list):
